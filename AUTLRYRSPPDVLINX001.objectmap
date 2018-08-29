@@ -1,0 +1,3 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="PDV" locator="/Control[@caption='LINX - P2K']" />
+</ObjectMap>
